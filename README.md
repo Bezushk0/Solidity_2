@@ -1,1 +1,1 @@
-# Solidity-1.1
+# Solidity
